@@ -52,16 +52,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=github_dark" alt="umairkodv" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=github_dark" alt="umairkodv" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairkodv&theme=github-dark" alt="umairkodv" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=github_dark" alt="umairkodv" />
 </p>
 
 ---
