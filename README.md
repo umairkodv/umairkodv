@@ -52,14 +52,17 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=github_dark" alt="umairkodv" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=github_dark" alt="umairkodv" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=radical&hide_border=true&custom_title=Umair's%20GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairkodv&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairkodv&theme=github-dark" alt="umairkodv" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=radical&hide_border=true" width="50%" />
+</div>
+
 
 ---
 
