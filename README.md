@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair Zubair</h1>
-<h3 align="center">Backend & Full-Stack Developer | Laravel, Node.js, React & AI Integrator</h3>
+<h3 align="center">Backend Developer | PHP & Laravel Enthusiast | Node.js & React Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umairkodv&label=Profile%20views&color=0e75b6&style=flat" alt="umairkodv" />
