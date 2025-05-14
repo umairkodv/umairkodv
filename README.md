@@ -68,9 +68,6 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/umairkodv/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="umairkodv" />
-  </a>
   <a href="mailto:umairkodv@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="umairkodv" />
   </a>
