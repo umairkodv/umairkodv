@@ -53,31 +53,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=radical&hide_border=true&title_color=ff79c6&icon_color=ffb86c" 
-    alt="Umair's GitHub Stats" 
-    width="48%" 
-  />
-
-  <!-- GitHub Contribution Streak (Fast Mirror) -->
-  <img 
-    src="https://github-readme-streak-stats.demolab.com?user=umairkodv&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="Umair's GitHub Streak" 
-    width="48%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=radical&hide_border=true&custom_title=Umair's%20GitHub%20Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=umairkodv&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff79c6" 
-    alt="Umair's Top Languages" 
-    width="60%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkodv&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
-
-
 
 ---
 
