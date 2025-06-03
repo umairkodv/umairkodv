@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umairkodv&show_icons=true&theme=radical&hide_border=true&custom_title=Umair's%20GitHub%20Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=umairkodv&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=umairkodv&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
