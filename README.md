@@ -66,7 +66,7 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:umairkodv@gmail.com" target="blank">
+  <a href="mailto:umairzkodv@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="umairkodv" />
   </a>
   <a href="https://github.com/umairkodv" target="blank">
